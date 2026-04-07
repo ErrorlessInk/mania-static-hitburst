@@ -18,6 +18,8 @@ An Etterna-style last judgement image overlay for osu!mania using tosu.
 
 \- images/
 
+What you will get in osu! mania:
+
 ![Animated preview](preview.gif)
 
 \## How to use
