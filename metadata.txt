@@ -1,0 +1,8 @@
+Usecase: ingame, obs-overlay
+Name: Static Judge Hitburst
+Author: Errorless
+CompatibleWith: tosu
+Version: 1.0
+Resolution: 500x500
+authorLinks: https://github.com/ErrorlessInk
+Notes: image hitburst overlay for osu!mania, only shows latest judgement
